@@ -420,4 +420,17 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 
 -->  
+
+
+  <project name="TWRPXperia/android_device_sony_yuga" path="device/sony/yuga" remote="github" />
+  <project name="TWRPXperia/android_device_sony_odin" path="device/sony/odin" remote="github" />
+  <project name="CyanogenMod/android_device_sony_pollux" path="device/sony/pollux" remote="github" />
+  <project name="CyanogenMod/android_device_sony_pollux_windy" path="device/sony/pollux_windy" remote="github" />
+  <project name="TWRPXperia/android_device_sony_pollux-common" path="device/sony/pollux-common" remote="github" />
+  <project name="TWRPXperia/android_device_sony_fusion3-common" path="device/sony/fusion3-common" remote="github" />
+  <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" />
+  <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" />
+  <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" />
+
 </manifest>
