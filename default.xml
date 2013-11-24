@@ -422,9 +422,11 @@
 -->  
 
 
+  <project name="TWRPXperia/android_device_sony_huashan" path="device/sony/huashan" remote="github" />
   <project name="TWRPXperia/android_device_sony_mint" path="device/sony/mint" remote="github" />
   <project name="TWRPXperia/android_device_sony_tsubasa" path="device/sony/tsubasa" remote="github" />
   <project name="TWRPXperia/android_device_sony_blue-common" path="device/sony/blue-common" remote="github" />
+  <project name="TWRPXperia/android_device_sony_dogo" path="device/sony/dogo" remote="github" />
   <project name="TWRPXperia/android_device_sony_yuga" path="device/sony/yuga" remote="github" />
   <project name="TWRPXperia/android_device_sony_odin" path="device/sony/odin" remote="github" />
   <project name="TWRPXperia/android_device_sony_pollux" path="device/sony/pollux" remote="github" />
